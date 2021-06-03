@@ -32,5 +32,7 @@ https://gist.github.com/jboner/2841832
 
 ```
 By Jeff Dean:               http://research.google.com/people/jeff/
-Originally by Peter Norvig: http://norvig.com/21-days.html#answers
+Originally by Peter Norvig: http://norvig.com/21-days.html#answ
 ```
+2019 numbers https://www.freecodecamp.org/news/must-know-numbers-for-every-computer-engineer/
+
